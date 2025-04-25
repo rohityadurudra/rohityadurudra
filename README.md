@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">i have acquired theoretical and practical knowledge in web development and web3 technologies. with the help of my knowledge i want to contribute to the develpment of open source technologies in the world of technology</h3>
 
 - 🔭 I’m currently working on **Web development**
 
